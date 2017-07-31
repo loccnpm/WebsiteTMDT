@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <table border="1px">
+        <tr>
+            <td>HTML</td>
+            <td>jQuery</td>
+            <td>PHP</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>Ajax</td>
+            <td>MySQL</td>
+        </tr>
+        <tr>
+            <td>Bootstrap 3</td>
+            <td>Angularjs</td>
+            <td>ASP.NET</td>
+        </tr>
+    </table>
+</body>
+</html>
